@@ -1,0 +1,20 @@
+H:\VisualStudio\git_location\BestRSSever\BestRSSever\bin\Debug\BestRSSever.exe.config
+H:\VisualStudio\git_location\BestRSSever\BestRSSever\obj\Debug\BestRSSever.csprojResolveAssemblyReference.cache
+H:\VisualStudio\git_location\BestRSSever\BestRSSever\obj\Debug\BestRSSever.NewNews.resources
+H:\VisualStudio\git_location\BestRSSever\BestRSSever\obj\Debug\BestRSSever.Properties.Resources.resources
+H:\VisualStudio\git_location\BestRSSever\BestRSSever\obj\Debug\BestRSSever.RSSmain.resources
+H:\VisualStudio\git_location\BestRSSever\BestRSSever\obj\Debug\BestRSSever.csproj.GenerateResource.Cache
+H:\VisualStudio\git_location\BestRSSever\BestRSSever\bin\Debug\BestRSSever.exe
+H:\VisualStudio\git_location\BestRSSever\BestRSSever\bin\Debug\BestRSSever.pdb
+H:\VisualStudio\git_location\BestRSSever\BestRSSever\obj\Debug\BestRSSever.exe
+H:\VisualStudio\git_location\BestRSSever\BestRSSever\obj\Debug\BestRSSever.pdb
+D:\dev\visual studio 2013\Projects\BestRSSever\BestRSSever\BestRSSever\bin\Debug\BestRSSever.exe.config
+D:\dev\visual studio 2013\Projects\BestRSSever\BestRSSever\BestRSSever\obj\Debug\BestRSSever.exe
+D:\dev\visual studio 2013\Projects\BestRSSever\BestRSSever\BestRSSever\obj\Debug\BestRSSever.pdb
+D:\dev\visual studio 2013\Projects\BestRSSever\BestRSSever\BestRSSever\obj\Debug\BestRSSever.csprojResolveAssemblyReference.cache
+D:\dev\visual studio 2013\Projects\BestRSSever\BestRSSever\BestRSSever\obj\Debug\BestRSSever.NewNews.resources
+D:\dev\visual studio 2013\Projects\BestRSSever\BestRSSever\BestRSSever\obj\Debug\BestRSSever.Properties.Resources.resources
+D:\dev\visual studio 2013\Projects\BestRSSever\BestRSSever\BestRSSever\obj\Debug\BestRSSever.RSSmain.resources
+D:\dev\visual studio 2013\Projects\BestRSSever\BestRSSever\BestRSSever\obj\Debug\BestRSSever.csproj.GenerateResource.Cache
+D:\dev\visual studio 2013\Projects\BestRSSever\BestRSSever\BestRSSever\bin\Debug\BestRSSever.exe
+D:\dev\visual studio 2013\Projects\BestRSSever\BestRSSever\BestRSSever\bin\Debug\BestRSSever.pdb
