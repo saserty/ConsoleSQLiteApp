@@ -60,7 +60,6 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RssReader.cs" />
-    <Compile Include="ToXML.cs" />
     <EmbeddedResource Include="NewNews.resx">
       <DependentUpon>NewNews.cs</DependentUpon>
     </EmbeddedResource>

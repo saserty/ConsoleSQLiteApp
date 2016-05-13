@@ -37,15 +37,17 @@
             // TitleLabel
             // 
             this.TitleLabel.AutoSize = true;
+            this.TitleLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.TitleLabel.Location = new System.Drawing.Point(26, 15);
             this.TitleLabel.Name = "TitleLabel";
-            this.TitleLabel.Size = new System.Drawing.Size(27, 13);
+            this.TitleLabel.Size = new System.Drawing.Size(32, 13);
             this.TitleLabel.TabIndex = 0;
             this.TitleLabel.Text = "Title";
             // 
             // PublicDateLabel
             // 
             this.PublicDateLabel.AutoSize = true;
+            this.PublicDateLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.PublicDateLabel.Location = new System.Drawing.Point(26, 171);
             this.PublicDateLabel.Name = "PublicDateLabel";
             this.PublicDateLabel.Size = new System.Drawing.Size(85, 13);

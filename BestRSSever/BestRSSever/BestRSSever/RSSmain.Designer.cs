@@ -30,10 +30,10 @@
         {
             this.MainRSSflowLayoutPanel = new System.Windows.Forms.FlowLayoutPanel();
             this.CheckUpdatesButton = new System.Windows.Forms.Button();
-            this.RSSListcheckedListBox = new System.Windows.Forms.CheckedListBox();
             this.PreviousButton = new System.Windows.Forms.Button();
             this.NextButton = new System.Windows.Forms.Button();
             this.PageNumberLabel = new System.Windows.Forms.Label();
+            this.RSSListListBox = new System.Windows.Forms.ListBox();
             this.SuspendLayout();
             // 
             // MainRSSflowLayoutPanel
@@ -57,18 +57,9 @@
             this.CheckUpdatesButton.UseVisualStyleBackColor = true;
             this.CheckUpdatesButton.Click += new System.EventHandler(this.CheckUpdatesButton_Click);
             // 
-            // RSSListcheckedListBox
-            // 
-            this.RSSListcheckedListBox.FormattingEnabled = true;
-            this.RSSListcheckedListBox.Location = new System.Drawing.Point(26, 78);
-            this.RSSListcheckedListBox.Name = "RSSListcheckedListBox";
-            this.RSSListcheckedListBox.Size = new System.Drawing.Size(157, 94);
-            this.RSSListcheckedListBox.TabIndex = 2;
-            // 
             // PreviousButton
             // 
-            this.PreviousButton.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
+            this.PreviousButton.Anchor = System.Windows.Forms.AnchorStyles.Bottom;
             this.PreviousButton.Location = new System.Drawing.Point(284, 433);
             this.PreviousButton.Name = "PreviousButton";
             this.PreviousButton.Size = new System.Drawing.Size(75, 23);
@@ -79,8 +70,7 @@
             // 
             // NextButton
             // 
-            this.NextButton.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
+            this.NextButton.Anchor = System.Windows.Forms.AnchorStyles.Bottom;
             this.NextButton.Location = new System.Drawing.Point(512, 433);
             this.NextButton.Name = "NextButton";
             this.NextButton.Size = new System.Drawing.Size(75, 23);
@@ -91,8 +81,7 @@
             // 
             // PageNumberLabel
             // 
-            this.PageNumberLabel.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
+            this.PageNumberLabel.Anchor = System.Windows.Forms.AnchorStyles.Bottom;
             this.PageNumberLabel.AutoSize = true;
             this.PageNumberLabel.Location = new System.Drawing.Point(406, 438);
             this.PageNumberLabel.Name = "PageNumberLabel";
@@ -100,15 +89,23 @@
             this.PageNumberLabel.TabIndex = 5;
             this.PageNumberLabel.Text = "Page";
             // 
+            // RSSListListBox
+            // 
+            this.RSSListListBox.FormattingEnabled = true;
+            this.RSSListListBox.Location = new System.Drawing.Point(26, 76);
+            this.RSSListListBox.Name = "RSSListListBox";
+            this.RSSListListBox.Size = new System.Drawing.Size(157, 95);
+            this.RSSListListBox.TabIndex = 6;
+            // 
             // RSSmain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(668, 467);
+            this.Controls.Add(this.RSSListListBox);
             this.Controls.Add(this.PageNumberLabel);
             this.Controls.Add(this.NextButton);
             this.Controls.Add(this.PreviousButton);
-            this.Controls.Add(this.RSSListcheckedListBox);
             this.Controls.Add(this.CheckUpdatesButton);
             this.Controls.Add(this.MainRSSflowLayoutPanel);
             this.MaximizeBox = false;
@@ -124,10 +121,10 @@
 
         private System.Windows.Forms.FlowLayoutPanel MainRSSflowLayoutPanel;
         private System.Windows.Forms.Button CheckUpdatesButton;
-        private System.Windows.Forms.CheckedListBox RSSListcheckedListBox;
         private System.Windows.Forms.Button PreviousButton;
         private System.Windows.Forms.Button NextButton;
         private System.Windows.Forms.Label PageNumberLabel;
+        private System.Windows.Forms.ListBox RSSListListBox;
     }
 }
 
