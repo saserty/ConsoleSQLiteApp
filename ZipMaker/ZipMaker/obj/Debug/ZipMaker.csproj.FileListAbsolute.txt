@@ -1,0 +1,6 @@
+d:\dev\visual studio 2013\Projects\ZipMaker\ZipMaker\bin\Debug\ZipMaker.exe.config
+d:\dev\visual studio 2013\Projects\ZipMaker\ZipMaker\obj\Debug\ZipMaker.csprojResolveAssemblyReference.cache
+d:\dev\visual studio 2013\Projects\ZipMaker\ZipMaker\bin\Debug\ZipMaker.exe
+d:\dev\visual studio 2013\Projects\ZipMaker\ZipMaker\bin\Debug\ZipMaker.pdb
+d:\dev\visual studio 2013\Projects\ZipMaker\ZipMaker\obj\Debug\ZipMaker.exe
+d:\dev\visual studio 2013\Projects\ZipMaker\ZipMaker\obj\Debug\ZipMaker.pdb
